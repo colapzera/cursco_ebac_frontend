@@ -1,0 +1,56 @@
+[33mcommit fb0ec8ba8e4c4ec6a92a93f6f6f210c19c0e00ec[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: calypson <calypson.luiz@icloud.com>
+Date:   Thu Aug 22 12:35:20 2024 -0300
+
+    add conflito.txt
+
+ chancelog.md | 12 [32m++++++++++[m[31m--[m
+ conflito.txt |  1 [32m+[m
+ 2 files changed, 11 insertions(+), 2 deletions(-)
+
+[33mcommit 43df9b3def94400d8cae2c2d761bee2d5567365f[m[33m ([m[1;32mfeature/new_file[m[33m)[m
+Author: calypson <calypson.luiz@icloud.com>
+Date:   Thu Aug 22 12:31:28 2024 -0300
+
+    add new file
+
+ new_file.txt | Bin [31m0[m -> [32m46[m bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 2706af9685b883e49713fce6fe92bafe374ea634[m
+Author: calypson <calypson.luiz@icloud.com>
+Date:   Tue Jan 16 09:43:38 2024 -0300
+
+    inclusao de chancelog.md
+
+ chancelog.md | 5 [32m+++++[m
+ 1 file changed, 5 insertions(+)
+
+[33mcommit 140375bc79940db94dc7178930caeb8a30b72b37[m
+Author: calypson <calypson.luiz@icloud.com>
+Date:   Sat Jan 6 16:52:35 2024 -0300
+
+    colocando acentuação no arquivo.txt
+
+ arquivo2.txt | Bin [31m32[m -> [32m32[m bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 246a26e1cf7df8b858c98bc31e4632eda2256340[m
+Author: calypson <calypson.luiz@icloud.com>
+Date:   Sat Jan 6 16:49:41 2024 -0300
+
+     alterando o arquivo2.txt
+
+ arquivo2.txt | Bin [31m34[m -> [32m32[m bytes
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+[33mcommit 4617cbb5db93f96f32ebb1e158fbfd2f0a2b55d3[m
+Author: calypson <calypson.luiz@icloud.com>
+Date:   Sat Jan 6 16:45:32 2024 -0300
+
+    inclusao de novos arquivos
+    inclusao dos arquivos : arquivo.txt e arquivo2.txt
+
+ arquivo.txt  | Bin [31m0[m -> [32m30[m bytes
+ arquivo2.txt | Bin [31m0[m -> [32m34[m bytes
+ 2 files changed, 0 insertions(+), 0 deletions(-)
